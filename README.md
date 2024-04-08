@@ -8,3 +8,12 @@ Teremos 2 pastas nesse repositório, uma chamada input e outra chamada output, n
 - 3. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
 - 4. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
 - 5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
+
+
+O Objetivo principal é usar a ferramenta de IA para verificar uma imagem e transcever os dados que foram encontrados!
+Utlizamos o Azure AI Service, junto do serviço do Portal AI Vision Studio
+As imagens na pasta input desse repositório foram usadas como base na ferramenta da Azure
+Os outputs foram copiados em formato txt para a pasta output desse repositório
+
+### Considerações
+O recurso de reconhecimento e extração de textos em imagens do Azure possibilita que as empresas o utilizem para reconhecimento e arquivamento de documentos com agilidade e segurança, podendo ser empregado também em notas ficais, necessitando apenas que a imagem do documento seja inserida na ferramenta e seus dados ja são reconhecidos.
